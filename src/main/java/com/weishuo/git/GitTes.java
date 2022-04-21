@@ -1,0 +1,7 @@
+package com.weishuo.git;
+
+public class GitTes {
+    public static void main(String[] args) {
+        System.out.println("hello git");
+    }
+}
